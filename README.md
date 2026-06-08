@@ -1,12 +1,12 @@
-
 <div align="center">
 
 <img src="./avatar.png" width="180">
+
 # Pankaj Kumar
 
-<hr>
+### Python Developer | CS Student
 
-## Open For Internships 🚀
+### 🚀 Open For Internships
 
 <a href="https://www.linkedin.com/in/pankaj-kumar-378b4229b">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge">
@@ -20,10 +20,8 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge">
 </a>
 
-<br><br>
-
-
 </div>
+
 
 ## 🚀 About Me
 
