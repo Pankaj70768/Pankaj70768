@@ -2,7 +2,7 @@
 
 <img src="./avatar.png" width="180">
 
-# Pankaj Kumar
+# Pankaj 
 
 ### Python Developer | CS Student
 
