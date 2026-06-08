@@ -111,6 +111,56 @@
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Coding Mode
+
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+📚 Data Structures & Algorithms
+🌐 Full Stack Development
+🐍 Advanced Python
+⚡ Building Real World Projects
+🤖 Artificial Intelligence
+```
+
+---
+
+## 🌟 Developer Mindset
+
+```text
+Code.
+Learn.
+Build.
+Repeat.
+```
+
+---
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
