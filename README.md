@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Pankaj</h1>
 
 <h3 align="center">
 Python Developer | Flask Developer | CS Student
