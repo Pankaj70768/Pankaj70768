@@ -23,7 +23,6 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=Pankaj70768&label=Profile+Views&color=blue)
 
 </div>
 
