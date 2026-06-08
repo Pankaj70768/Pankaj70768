@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="80">
-
+<img src="./avatar.png" width="180">
 # Pankaj Kumar
 
 <hr>
