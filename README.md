@@ -2,7 +2,7 @@
 
 <img src="./avatar.png" width="180">
 
-# Pankaj Kumar
+# Pankaj 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Python+Developer;Building+Real+World+Projects;Open+For+Internships;Learning+DSA+%26+AI"/>
 
