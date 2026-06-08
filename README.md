@@ -81,17 +81,21 @@
 
 ### 📅 Calendar Reminder App
 
-* Voice Input
-* Notifications
-* Categories
-* Theme Support
+🚀 Productivity desktop application
+
+✔ Voice Commands  
+✔ Desktop Notifications  
+✔ Calendar Integration  
+✔ Modern GUI
 
 ### 💬 Real-Time Chat Application
 
-* Flask
-* Socket.IO
-* Real-Time Messaging
-* Modern UI
+🚀 Real-time communication platform
+
+✔ Flask Backend  
+✔ Socket.IO  
+✔ Live Messaging  
+✔ Responsive UI
 
 ---
 
