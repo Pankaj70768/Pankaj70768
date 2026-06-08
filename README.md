@@ -6,21 +6,83 @@
 
 ### Python Developer | CS Student
 
-### 🚀 Open For Internships
+## 🚀 Open For Internships
 
-<a href="https://www.linkedin.com/in/pankaj-kumar-378b4229b">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge">
-</a>
+## 💻 Aspiring Tech Enthusiast
 
-<a href="mailto:pankajdaroch06@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge">
-</a>
+### 💼 Looking for:
 
-<a href="https://x.com/Pankajjjk0">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge">
-</a>
+* Python Developer Internships
+* Software Development Opportunities
+* Open Source Contributions
+* AI & Web Development Projects
 
-</div>
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
+</p>
+
+---
+
+## 🌐 Frameworks & Web Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/NEXT_JS-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/NODE_JS-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/EXPRESS_JS-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MY_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
+<img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows"/>
+
+</p>
+
 
 
 ## 🚀 About Me
