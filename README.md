@@ -8,7 +8,7 @@
 
 <br>
 
-## 🚀 Open For Internships
+
 
 <a href="https://www.linkedin.com/in/pankaj-kumar-378b4229b">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge">
