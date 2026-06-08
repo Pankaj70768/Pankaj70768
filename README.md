@@ -1,13 +1,31 @@
-<h1 align="center">Hi 👋, I'm Pankaj</h1>
 
-<h3 align="center">
-Python Developer | Flask Developer | CS Student
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Developer;Building+Real+World+Projects;Open+To+Internships;Learning+DSA+and+AI" />
-</p>
+<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="80">
 
+# Pankaj Kumar
+
+<hr>
+
+## Open For Internships 🚀
+
+<a href="https://www.linkedin.com/in/pankaj-kumar-378b4229b">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge">
+</a>
+
+<a href="mailto:pankajdaroch06@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge">
+</a>
+
+<a href="https://x.com/Pankajjjk0">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge">
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Pankaj70768&label=Profile+Views&color=blue)
+
+</div>
 
 ## 🚀 About Me
 
