@@ -7,3 +7,12 @@ Python Developer | Flask Developer | CS Student
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Developer;Building+Real+World+Projects;Open+To+Internships;Learning+DSA+and+AI" />
 </p>
+
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Python Developer
+- 🌱 Learning DSA, Flask & Full Stack Development
+- 🤖 Interested in AI & Software Engineering
+- 🚀 Open to Internship Opportunities
