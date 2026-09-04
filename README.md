@@ -151,64 +151,13 @@ Current Goal:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pankaj70768&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pankaj70768&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=Pankaj70768&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj70768&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pankaj70768&theme=tokyonight&no-frame=true&column=4&row=2"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj70768&theme=tokyo-night&hide_border=true)](https://github.com/Pankaj70768)
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset=https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-contribution-grid-snake-dark.svg
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-contribution-grid-snake.svg"/>
-
-<img
-src="https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
----
+<br>
 
 <div align="center">
 
@@ -219,6 +168,7 @@ src="https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-con
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
+
 
 # 🚀 Featured Projects
 
