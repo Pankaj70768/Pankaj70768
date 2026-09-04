@@ -89,14 +89,24 @@ Current Goal:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
 
-
 # 💻 Tech Arsenal
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="50" title="Python" alt="Python"><img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"><img src="https://skillicons.dev/icons?i=vite" width="50" title="Vite" alt="Vite"><img src="https://skillicons.dev/icons?i=express" width="50" title="Express.js" alt="Express.js"><img src="https://skillicons.dev/icons?i=flask" width="50" title="Flask" alt="Flask"><img src="https://skillicons.dev/icons?i=mysql" width="50" title="MySQL" alt="MySQL"><img src="https://skillicons.dev/icons?i=firebase" width="50" title="Firebase" alt="Firebase"><img src="https://skillicons.dev/icons?i=threejs" width="50" title="Three.js" alt="Three.js"><img src="https://skillicons.dev/icons?i=gsap" width="50" title="GSAP" alt="GSAP"><img src="https://skillicons.dev/icons?i=opencv" width="50" title="OpenCV" alt="OpenCV">
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55" title="Python"/><br><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55" title="React"/><br><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="55" title="Vite"/><br><sub>Vite</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55" title="Express.js"/><br><sub>Express</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="55" title="Flask"/><br><sub>Flask</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/><br><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55" title="Firebase"/><br><sub>Firebase</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="55" title="Three.js"/><br><sub>Three.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gsap" width="55" title="GSAP"/><br><sub>GSAP</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="55" title="OpenCV"/><br><sub>OpenCV</sub></td>
+  </tr>
+</table>
 
 ---
 
