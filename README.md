@@ -93,7 +93,25 @@ Current Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,vite,express,flask,mysql,firebase,threejs,gsap,opencv&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python" width="70" title="Python" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="70" title="React" alt="React"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" width="70" title="Vite" alt="Vite"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="70" title="Express.js" alt="Express.js"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="70" title="Flask" alt="Flask"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="70" title="MySQL" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" width="70" title="Firebase" alt="Firebase"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=threejs" width="70" title="Three.js" alt="Three.js"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gsap" width="70" title="GSAP" alt="GSAP"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="70" title="OpenCV" alt="OpenCV"/>
 
 </div>
 
