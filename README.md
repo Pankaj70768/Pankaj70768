@@ -149,6 +149,8 @@ Current Goal:
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pankaj70768&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
@@ -162,8 +164,6 @@ Current Goal:
 <div align="center">
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj70768&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj70768&theme=tokyonight"/>
 
 </div>
 
