@@ -183,8 +183,7 @@ Current Goal:
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj70768\&theme=tokyo-night\&hide_border=true)](https://github.com/Pankaj70768)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj70768&theme=tokyo-night&hide_border=true)](https://github.com/Pankaj70768)
 </div>
 
 ---
@@ -197,8 +196,7 @@ Current Goal:
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-contribution-grid-snake-dark.svg"/>
-
+srcset=https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-contribution-grid-snake-dark.svg
 <source
 media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-contribution-grid-snake.svg"/>
