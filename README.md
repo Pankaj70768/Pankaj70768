@@ -149,21 +149,11 @@ Current Goal:
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pankaj70768&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pankaj70768&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj70768&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj70768&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Pankaj70768&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -171,7 +161,17 @@ Current Goal:
 
 <div align="center">
 
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj70768&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
+
 # 🏆 GitHub Trophies
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pankaj70768&theme=tokyonight&no-frame=true&column=4&row=2"/>
 
