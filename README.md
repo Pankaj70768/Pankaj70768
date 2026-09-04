@@ -2,7 +2,7 @@
 
 <img src="./avatar.png" width="180" style="border-radius:50%;" />
 
-Hi 👋 I'm Pankaj Kumar
+# Hi 👋 I'm Pankaj Kumar
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies;Open+to+Internship+Opportunities"/>
 
@@ -34,10 +34,13 @@ Hi 👋 I'm Pankaj Kumar
 
 </div>
 
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:7c3aed&section=header"/>
 
-🚀 About Me
+# 🚀 About Me
 
+```yaml
 Name: Pankaj Kumar
 
 Education:
@@ -60,10 +63,13 @@ Interested In:
 Current Goal:
   Secure a Software Development Internship
   while building impactful real-world projects.
+```
+
+---
 
 <div align="center">
 
-⚡ Quick Snapshot
+## ⚡ Quick Snapshot
 
 🧑‍💻 Computer Science Student
 
@@ -79,95 +85,69 @@ Current Goal:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
-
-💻 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,vite,nodejs,express,flask,fastapi,mongodb,mysql,git,github,vscode,postman&perline=10"/>
-
-</div>
-
-🛠️ Core Technologies
-
-<div align="center">
-
-Category
-
-Technologies
-
-💻 Languages
-
-C • C++ • Java • Python • JavaScript
-
-🎨 Frontend
-
-HTML • CSS • React • Vite
-
-⚙️ Backend
-
-Node.js • Express.js • Flask • FastAPI
-
-🗄️ Database
-
-MySQL • MongoDB
-
-🤖 AI / ML
-
-OpenCV • Scikit-Learn
-
-🧰 Tools
-
-Git • GitHub • VS Code • Postman
-
-</div>
-
-⚡ What I'm Currently Working On
-
-<div align="center">
-
-🚀 Project
-
-Tech Stack
-
-FleetDash
-
-React • Express • MySQL
-
-Project Aurora
-
-React • Three.js • GSAP
-
-Virtual Study Buddy
-
-React • AI
-
-AI Hand Gesture Suite
-
-Python • OpenCV
-
-Real-Time Chat App
-
-Flask • Socket.IO
-
-Calendar Reminder
-
-Python • Tkinter
-
-</div>
-
-<div align="center">
-
-🔥 Tech I Enjoy Working With
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&width=850&lines=React+⚛️;Python+🐍;Node.js+⚡;Artificial+Intelligence+🤖;Backend+Development+🚀"/>
-
-</div>
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
 
-📊 GitHub Analytics
+# 💻 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,vite,express,flask,mysql,firebase,threejs,gsap,opencv&perline=10"/>
+
+</div>
+
+---
+
+# 🛠️ Core Technologies
+
+<div align="center">
+
+|          Category          | Technologies       |
+| :------------------------: | :----------------- |
+|        💻 Languages        | Python             |
+|         🎨 Frontend        | React • Vite       |
+|         ⚙️ Backend         | Express.js • Flask |
+|        🗄️ Database        | MySQL • Firebase   |
+|   🤖 AI / Computer Vision  | OpenCV             |
+| 🎨 Interactive / Animation | Three.js • GSAP    |
+|        🔄 Real-Time        | Socket.IO          |
+|         🖥️ Desktop        | Tkinter            |
+
+</div>
+
+---
+
+# ⚡ What I'm Currently Working On
+
+<div align="center">
+
+| 🚀 Project            | Tech Stack              |
+| --------------------- | ----------------------- |
+| FleetDash             | React • Express • MySQL |
+| Project Aurora        | React • Three.js • GSAP |
+| Virtual Study Buddy   | React • Firebase • AI   |
+| AI Hand Gesture Suite | Python • OpenCV         |
+| Real-Time Chat App    | Flask • Socket.IO       |
+| Calendar Reminder     | Python • Tkinter        |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Tech I Enjoy Working With
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&width=850&lines=React+⚛️;Python+🐍;Express.js+⚡;Flask+🔥;Artificial+Intelligence+🤖;Computer+Vision+👁️"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -187,25 +167,31 @@ Python • Tkinter
 
 </div>
 
+---
+
 <div align="center">
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pankaj70768&theme=tokyonight&no-frame=true&column=4&row=2"/>
 
 </div>
 
+---
+
 <div align="center">
 
-📈 Contribution Graph
+# 📈 Contribution Graph
 
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj70768\&theme=tokyo-night\&hide_border=true)](https://github.com/Pankaj70768)
 
 </div>
 
+---
+
 <div align="center">
 
-🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <picture>
 
@@ -224,21 +210,27 @@ src="https://raw.githubusercontent.com/Pankaj70768/Pankaj70768/output/github-con
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pankaj70768&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-Projects that reflect my journey in Full Stack Development, Artificial Intelligence and Software Engineering.
+### Projects that reflect my journey in Full Stack Development, Artificial Intelligence and Software Engineering.
 
 </div>
+
+---
 
 <table>
 
@@ -256,7 +248,7 @@ Modern Fleet Management System designed for vehicle tracking, management and ana
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql"/>
+<img src="https://skillicons.dev/icons?i=react,express,mysql"/>
 
 </p>
 
@@ -490,9 +482,11 @@ Desktop reminder application with voice commands and notification support.
 
 </table>
 
+---
+
 <div align="center">
 
-⭐ More Projects
+## ⭐ More Projects
 
 <a href="https://github.com/Pankaj70768?tab=repositories">
 
@@ -502,39 +496,27 @@ Desktop reminder application with voice commands and notification support.
 
 </div>
 
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06b6d4,100:8b5cf6"/>
 
-🎯 Current Focus
+# 🎯 Current Focus
 
 <div align="center">
 
-🚀 Goal
-
-Status
-
-Full Stack Development
-
-🟢 In Progress
-
-Data Structures & Algorithms
-
-🟢 In Progress
-
-Artificial Intelligence
-
-🟢 Learning
-
-Open Source Contributions
-
-🟡 Exploring
-
-Software Engineering Internship
-
-🎯 Target
+| 🚀 Goal                         |     Status     |
+| :------------------------------ | :------------: |
+| Full Stack Development          | 🟢 In Progress |
+| Data Structures & Algorithms    | 🟢 In Progress |
+| Artificial Intelligence         |   🟢 Learning  |
+| Open Source Contributions       |  🟡 Exploring  |
+| Software Engineering Internship |    🎯 Target   |
 
 </div>
 
-🏅 Highlights
+---
+
+# 🏅 Highlights
 
 <div align="center">
 
@@ -552,8 +534,11 @@ Software Engineering Internship
 
 </div>
 
-📊 Development Philosophy
+---
 
+# 📊 Development Philosophy
+
+```text
 Learn
    ↓
 Build
@@ -563,8 +548,11 @@ Fail
 Improve
    ↓
 Repeat
+```
 
-🌍 Let's Connect
+---
+
+# 🌍 Let's Connect
 
 <div align="center">
 
@@ -586,13 +574,17 @@ Repeat
 
 </div>
 
+---
+
 <div align="center">
 
-💙 Thanks for Visiting!
+## 💙 Thanks for Visiting!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&width=650&lines=Thanks+for+visiting!;Let's+Build+Something+Awesome.;Happy+Coding!+🚀"/>
 
 </div>
+
+---
 
 <div align="center">
 
