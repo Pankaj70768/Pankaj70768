@@ -91,7 +91,13 @@ Current Goal:
 
 # 💻 Tech Arsenal
 
-<div align="center">
+# 💻 Tech Arsenal
+
+<div align="center" style="line-height: 0;">
+
+<img src="https://skillicons.dev/icons?i=python" width="50" title="Python" alt="Python"><img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"><img src="https://skillicons.dev/icons?i=vite" width="50" title="Vite" alt="Vite"><img src="https://skillicons.dev/icons?i=express" width="50" title="Express.js" alt="Express.js"><img src="https://skillicons.dev/icons?i=flask" width="50" title="Flask" alt="Flask"><img src="https://skillicons.dev/icons?i=mysql" width="50" title="MySQL" alt="MySQL"><img src="https://skillicons.dev/icons?i=firebase" width="50" title="Firebase" alt="Firebase"><img src="https://skillicons.dev/icons?i=threejs" width="50" title="Three.js" alt="Three.js"><img src="https://skillicons.dev/icons?i=gsap" width="50" title="GSAP" alt="GSAP"><img src="https://skillicons.dev/icons?i=opencv" width="50" title="OpenCV" alt="OpenCV">
+
+</div>
 
 <img src="https://skillicons.dev/icons?i=python" width="70" title="Python" alt="Python"/>
 &nbsp;&nbsp;
