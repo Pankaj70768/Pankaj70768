@@ -103,7 +103,10 @@ Current Goal:
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/><br><sub>MySQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55" title="Firebase"/><br><sub>Firebase</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="55" title="Three.js"/><br><sub>Three.js</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gsap" width="55" title="GSAP"/><br><sub>GSAP</sub></td>
+    <td align="center">
+  <img src="GSAP_LOGO_URL" width="55" title="GSAP" alt="GSAP"/>
+  <br><sub>GSAP</sub>
+</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="55" title="OpenCV"/><br><sub>OpenCV</sub></td>
   </tr>
 </table>
